@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\bin\Debug\netcoreapp3.1\lanNaughtsAndCrosses.exe
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\bin\Debug\netcoreapp3.1\lanNaughtsAndCrosses.deps.json
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\bin\Debug\netcoreapp3.1\lanNaughtsAndCrosses.runtimeconfig.json
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\bin\Debug\netcoreapp3.1\lanNaughtsAndCrosses.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\bin\Debug\netcoreapp3.1\lanNaughtsAndCrosses.dll
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\bin\Debug\netcoreapp3.1\lanNaughtsAndCrosses.pdb
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\obj\Debug\netcoreapp3.1\lanNaughtsAndCrosses.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\obj\Debug\netcoreapp3.1\lanNaughtsAndCrosses.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\obj\Debug\netcoreapp3.1\lanNaughtsAndCrosses.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\obj\Debug\netcoreapp3.1\lanNaughtsAndCrosses.dll
+C:\Users\Gabriel\source\repos\lanNaughtsAndCrosses\lanNaughtsAndCrosses\obj\Debug\netcoreapp3.1\lanNaughtsAndCrosses.pdb
